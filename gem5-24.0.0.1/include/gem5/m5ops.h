@@ -92,4 +92,4 @@ M5OP_FOREACH
 #ifdef __cplusplus
 }
 #endif
-endif // __GEM5_M5OP_H__
+#endif // __GEM5_M5OP_H__
